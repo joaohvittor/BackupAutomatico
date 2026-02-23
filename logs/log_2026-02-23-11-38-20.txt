@@ -1,0 +1,17 @@
+===== LOG DE EXECUÇÃO =====
+Usuário: joaohvittor
+Diretório de execução: /home/joaohvittor/Documents/ExerciciosPython
+Data e hora: 2026-02-23 11:38:20
+
+Arquivos encontrados:
+- Classes
+- EstruturaDeRepeticao
+- EstruturaDeDecisão
+- EstruturaSequencial
+- Funcoes
+- logs
+- BibliotecaSO
+- backup
+- Arquivos
+- Strings
+- Listas

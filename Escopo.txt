@@ -1,0 +1,43 @@
+📌 Nome: Log & Backup Automation Tool (Linux)
+1️⃣ Objetivo
+
+Desenvolver uma ferramenta em Python que automatize a criação de logs do sistema e realize backup automático dos arquivos gerados.
+
+2️⃣ Requisitos Funcionais
+
+O sistema deve:
+
+Verificar se existe um diretório chamado logs
+
+Caso não exista, criar automaticamente
+
+Criar um arquivo de log dentro da pasta logs
+
+O nome deve conter data e hora
+
+Exemplo: log_2026-02-23_09-30-12.txt
+
+Registrar dentro do log:
+
+Nome do usuário do sistema
+
+Diretório atual de execução
+
+Lista de arquivos e diretórios presentes no local
+
+Data e hora da execução
+
+Verificar se existe um diretório chamado backup
+
+Caso não exista, criar automaticamente
+
+Copiar o arquivo de log recém criado para dentro da pasta backup
+
+3️⃣ Requisitos Não Funcionais
+
+✔ Não utilizar caminhos absolutos fixos (hardcoded)
+✔ Utilizar os.path.join() para montagem de caminhos
+✔ Código deve ser estruturado em funções
+✔ Deve rodar em ambiente Linux
+✔ Deve tratar erros com try/except
+✔ Deve ter saída organizada no terminal

@@ -60,7 +60,7 @@ BackupAutomatico/
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/joaohvittor/BackupAutomatico.git
 
 Acesse a pasta do projeto:
 
